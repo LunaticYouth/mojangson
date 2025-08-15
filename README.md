@@ -1,4 +1,5 @@
 # mojangson
+[![Python](https://img.shields.io/pypi/pyversions/mojangson.svg)](https://badge.fury.io/py/mojangson) [![PyPI](https://badge.fury.io/py/mojangson.svg)](https://badge.fury.io/py/mojangson)
 
 A small Python library for parsing, stringifying, simplifying, and normalizing [Mojangson](https://minecraft.fandom.com/wiki/NBT_format#Mojangson) — the textual representation of Minecraft's NBT (Named Binary Tag) data.
 
