@@ -8,7 +8,7 @@ def readme():
 
 setup(
     name='mojangson',
-    version='0.0.1',
+    version='0.1.0',
     author='lunaticyouthie',
     author_email='lunatic.youthie@gmail.com',
     description='Python MojangSON (NBT) parser',
